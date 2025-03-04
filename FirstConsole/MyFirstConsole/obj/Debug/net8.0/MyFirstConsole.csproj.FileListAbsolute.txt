@@ -1,0 +1,14 @@
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\bin\Debug\net8.0\MyFirstConsole.exe
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\bin\Debug\net8.0\MyFirstConsole.deps.json
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\bin\Debug\net8.0\MyFirstConsole.runtimeconfig.json
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\bin\Debug\net8.0\MyFirstConsole.dll
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\bin\Debug\net8.0\MyFirstConsole.pdb
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\MyFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\MyFirstConsole.AssemblyInfoInputs.cache
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\MyFirstConsole.AssemblyInfo.cs
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\MyFirstConsole.csproj.CoreCompileInputs.cache
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\MyFirstConsole.dll
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\refint\MyFirstConsole.dll
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\MyFirstConsole.pdb
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\MyFirstConsole.genruntimeconfig.cache
+A:\kafkas\NesneTabanliProgramlama\FirstConsole\MyFirstConsole\obj\Debug\net8.0\ref\MyFirstConsole.dll

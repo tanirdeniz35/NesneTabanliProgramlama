@@ -1,0 +1,14 @@
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.AssemblyInfoInputs.cache
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.AssemblyInfo.cs
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.csproj.CoreCompileInputs.cache
+A:\kafkas\NesneTabanliProgramlama\Kalitim\bin\Debug\net8.0\Kalitim.exe
+A:\kafkas\NesneTabanliProgramlama\Kalitim\bin\Debug\net8.0\Kalitim.deps.json
+A:\kafkas\NesneTabanliProgramlama\Kalitim\bin\Debug\net8.0\Kalitim.runtimeconfig.json
+A:\kafkas\NesneTabanliProgramlama\Kalitim\bin\Debug\net8.0\Kalitim.dll
+A:\kafkas\NesneTabanliProgramlama\Kalitim\bin\Debug\net8.0\Kalitim.pdb
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.dll
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\refint\Kalitim.dll
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.pdb
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.genruntimeconfig.cache
+A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\ref\Kalitim.dll
