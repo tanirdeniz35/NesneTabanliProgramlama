@@ -1,0 +1,15 @@
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.AssemblyInfoInputs.cache
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.AssemblyInfo.cs
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.sourcelink.json
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.exe
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.deps.json
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.runtimeconfig.json
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.dll
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.pdb
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.dll
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\refint\Koleksiyonlar.dll
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.pdb
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.genruntimeconfig.cache
+A:\kafkas\NesneTabanliProgramlama\Koleksiyonlar\obj\Debug\net8.0\ref\Koleksiyonlar.dll

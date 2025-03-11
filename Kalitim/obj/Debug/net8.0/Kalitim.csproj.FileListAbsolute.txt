@@ -12,3 +12,4 @@ A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\refint\Kalitim.dll
 A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.pdb
 A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.genruntimeconfig.cache
 A:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\ref\Kalitim.dll
+a:\kafkas\NesneTabanliProgramlama\Kalitim\obj\Debug\net8.0\Kalitim.sourcelink.json
