@@ -1,0 +1,15 @@
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\Soyutlama.GeneratedMSBuildEditorConfig.editorconfig
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\Soyutlama.AssemblyInfoInputs.cache
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\Soyutlama.AssemblyInfo.cs
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\Soyutlama.csproj.CoreCompileInputs.cache
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\Soyutlama.sourcelink.json
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\bin\Debug\net8.0\Soyutlama.exe
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\bin\Debug\net8.0\Soyutlama.deps.json
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\bin\Debug\net8.0\Soyutlama.runtimeconfig.json
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\bin\Debug\net8.0\Soyutlama.dll
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\bin\Debug\net8.0\Soyutlama.pdb
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\Soyutlama.dll
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\refint\Soyutlama.dll
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\Soyutlama.pdb
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\Soyutlama.genruntimeconfig.cache
+A:\kafkas\NesneTabanliProgramlama\Soyutlama\obj\Debug\net8.0\ref\Soyutlama.dll
