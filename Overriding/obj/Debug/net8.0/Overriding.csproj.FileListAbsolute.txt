@@ -1,0 +1,15 @@
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfoInputs.cache
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfo.cs
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\Overriding.csproj.CoreCompileInputs.cache
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\Overriding.sourcelink.json
+A:\kafkas\NesneTabanliProgramlama\Overriding\bin\Debug\net8.0\Overriding.exe
+A:\kafkas\NesneTabanliProgramlama\Overriding\bin\Debug\net8.0\Overriding.deps.json
+A:\kafkas\NesneTabanliProgramlama\Overriding\bin\Debug\net8.0\Overriding.runtimeconfig.json
+A:\kafkas\NesneTabanliProgramlama\Overriding\bin\Debug\net8.0\Overriding.dll
+A:\kafkas\NesneTabanliProgramlama\Overriding\bin\Debug\net8.0\Overriding.pdb
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\Overriding.dll
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\refint\Overriding.dll
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\Overriding.pdb
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\Overriding.genruntimeconfig.cache
+A:\kafkas\NesneTabanliProgramlama\Overriding\obj\Debug\net8.0\ref\Overriding.dll

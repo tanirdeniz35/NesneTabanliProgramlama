@@ -1,37 +1,37 @@
 ﻿{
-// See https://aka.ms/new-console-template for more information
-// int[] intDizisi=new int[100];
-// for(int i=0;i<100;i++) 
-// {
-//     intDizisi[i]=i+1;
-// }
-// for(int i=0;i<100;i++)
-// {
-//     Console.WriteLine(intDizisi[i]);
-// }
+    // See https://aka.ms/new-console-template for more information
+    // int[] intDizisi=new int[100];
+    // for(int i=0;i<100;i++) 
+    // {
+    //     intDizisi[i]=i+1;
+    // }
+    // for(int i=0;i<100;i++)
+    // {
+    //     Console.WriteLine(intDizisi[i]);
+    // }
 
-// List<int> intListesi=new();
-// for(int i=0;i<100;i++) 
-// {
-//     intListesi.Add(i+1);
-// }
-// for(int i=0;i<100;i++)
-// {
-//     Console.WriteLine(intListesi[i]);
-// }
-// intListesi.Remove(50);
-// foreach (int i in intListesi)
-// {
-//     Console.WriteLine(i);
-// }
-// var indis=intListesi.IndexOf(70);
-  
-// intListesi[indis]=150;
+    // List<int> intListesi=new();
+    // for(int i=0;i<100;i++) 
+    // {
+    //     intListesi.Add(i+1);
+    // }
+    // for(int i=0;i<100;i++)
+    // {
+    //     Console.WriteLine(intListesi[i]);
+    // }
+    // intListesi.Remove(50);
+    // foreach (int i in intListesi)
+    // {
+    //     Console.WriteLine(i);
+    // }
+    // var indis=intListesi.IndexOf(70);
 
-// for(int i=0;i<intListesi.Count();i++)
-// {
-//     Console.WriteLine(intListesi[i]);
-// }
+    // intListesi[indis]=150;
+
+    // for(int i=0;i<intListesi.Count();i++)
+    // {
+    //     Console.WriteLine(intListesi[i]);
+    // }
 
     // List<int> intListesi=new();
     // for(int i=0;i<100;i++) 
@@ -52,7 +52,7 @@
     // else
     // Console.WriteLine("Uygun bir değer giriniz");
 
-    HashSet<int> elemanlar=new HashSet<int>();
+    HashSet<int> elemanlar = new HashSet<int>();
     elemanlar.Add(12);
     elemanlar.Add(13);
     elemanlar.Add(14);
@@ -64,7 +64,7 @@
         Console.WriteLine(i);
     }
 
-    Dictionary<int, string> dict=new Dictionary<int, string>();
+    Dictionary<int, string> dict = new Dictionary<int, string>();
     dict.Add(1, "Ali");
     dict.Add(2, "Veli");
     dict.Add(5, "Orhan");
@@ -73,14 +73,14 @@
     {
         Console.WriteLine(dict[i]);
     }
-    IEnumerable<int> list=new List<int>();
-    
+    IEnumerable<int> list = new List<int>();
+
 }
 void Degistir(ref int y)
 {
-    y=150;
+    y = 150;
 }
-void Hesapla(int x,out int y)
+void Hesapla(int x, out int y)
 {
-    y=x*x;
+    y = x * x;
 }

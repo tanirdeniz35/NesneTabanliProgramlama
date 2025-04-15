@@ -1,10 +1,10 @@
-public class Kaplan:Kedi
+public class Kaplan : Kedi
 {
     public override void AvYakala()
     {
-         Console.WriteLine("Kaplan av yakaladı");
+        Console.WriteLine("Kaplan av yakaladı");
     }
-    public Kaplan(string cins):base(cins)
+    public Kaplan(string cins) : base(cins)
     {
         AvYakala();
     }

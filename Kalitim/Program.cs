@@ -6,5 +6,5 @@ Console.WriteLine("Hello, World!");
 // Kedi kedi2=new ("Tekir");
 // kedi2.AvYakala();
 
-Kaplan kaplan =new Kaplan("Van kedisi");
+Kaplan kaplan = new Kaplan("Van kedisi");
 kaplan.AvYakala();
