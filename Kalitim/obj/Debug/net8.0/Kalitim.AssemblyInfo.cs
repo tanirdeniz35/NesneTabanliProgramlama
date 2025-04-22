@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kalitim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a064389a1e54579d6da99915e40bc94fa115f815")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42a1a98b67b6ebe3aa652cc79285d139aa7e841f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kalitim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kalitim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
