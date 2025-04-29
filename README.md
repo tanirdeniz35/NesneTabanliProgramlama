@@ -1,9 +1,13 @@
 Vs Code da console uygulaması oluşturmak için; dotnet new console
+
 sql server için ; dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
 postgresql için; dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+
 entity framework paketleri kurulumu için; 
 dotnet add package Microsoft.EntityFrameworkCore.Tools
 dotnet tool install --global dotnet-ef
+
 Code First de db bağlantısı;
 Host=localhost;Database=CodeFirstDb;Username=postgres;Password=sapass
 
