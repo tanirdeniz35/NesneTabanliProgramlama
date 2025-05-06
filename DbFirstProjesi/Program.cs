@@ -40,12 +40,66 @@ Console.WriteLine("Hello, World!");
 }
  */
 
+/* Department department = new()
+{
+    DeptName = "İşletme"
+};
+
 using (var dbContext = new DbFirstDbContext())
 {
-    var dataList = dbContext.Users.Include(x => x.Department).ToList();
-    foreach (var item in dataList)
+    dbContext.Departments.AddRange(department);
+    dbContext.SaveChanges();
+
+} */
+
+/* 
+User user = new()
+{
+    NameSurname = "Mehmet Kaya",
+    Username = "Mehmet",
+    Password = "1234",
+    DepartmentId = 3
+
+};
+using (var dbContext = new DbFirstDbContext())
+{
+    dbContext.Users.AddRange(user);
+    dbContext.SaveChanges();
+
+} */
+
+
+
+using (var dbContext = new DbFirstDbContext())
+{
+    /* var dataList = dbContext.Users
+        .Include(x => x.Department).Where(x => x.DepartmentId == 1)
+        .Select(x => new
+        {
+            x.Id,
+            x.Username,
+            x.NameSurname,
+            x.Department.DeptName
+        })
+        .ToList();
+
+    var departments = dataList;
+
+
+
+ */
+
+    var departments = dbContext.Departments.Where(x => x.Id == 3)
+        .SelectMany(x => x.Users)
+        .ToList();
+    foreach (var item in departments)
     {
-        System.Console.WriteLine($"{item.Id} {item.Username} {item.NameSurname} {item.Department.DeptName}");
+        System.Console.WriteLine($"{item.Id} {item.Username} {item.NameSurname} ");
     }
 
+
+    /*  foreach (var item in departments)
+     {
+         System.Console.WriteLine($"{item.Id} {item.DeptName}");
+     } */
 }
