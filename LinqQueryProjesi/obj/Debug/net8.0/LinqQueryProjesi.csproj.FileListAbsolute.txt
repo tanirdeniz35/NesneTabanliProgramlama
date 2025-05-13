@@ -1,0 +1,15 @@
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\bin\Debug\net8.0\LinqQueryProjesi.exe
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\bin\Debug\net8.0\LinqQueryProjesi.deps.json
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\bin\Debug\net8.0\LinqQueryProjesi.runtimeconfig.json
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\bin\Debug\net8.0\LinqQueryProjesi.dll
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\bin\Debug\net8.0\LinqQueryProjesi.pdb
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\LinqQueryProjesi.GeneratedMSBuildEditorConfig.editorconfig
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\LinqQueryProjesi.AssemblyInfoInputs.cache
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\LinqQueryProjesi.AssemblyInfo.cs
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\LinqQueryProjesi.csproj.CoreCompileInputs.cache
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\LinqQueryProjesi.sourcelink.json
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\LinqQueryProjesi.dll
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\refint\LinqQueryProjesi.dll
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\LinqQueryProjesi.pdb
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\LinqQueryProjesi.genruntimeconfig.cache
+A:\kafkas\NesneTabanliProgramlama\LinqQueryProjesi\obj\Debug\net8.0\ref\LinqQueryProjesi.dll
