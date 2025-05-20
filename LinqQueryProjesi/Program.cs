@@ -101,7 +101,7 @@ Console.WriteLine(varmi ? "Arçelik markalı ürün var" : "Arçelik markalı ü
                           urun.Model,
                           urun.SatisFiyati
                       }; */
-var kategoriurunler = urunler.Join(kategoriler,
+/* var kategoriurunler = urunler.Join(kategoriler,
     urun => urun.KategoriId,
     kategori => kategori.KategoriId,
     (urun, kategori) => new
@@ -112,7 +112,18 @@ var kategoriurunler = urunler.Join(kategoriler,
         urun.Model,
         urun.SatisFiyati
     }).ToList();
+
+    List<int> indexes = kategoriurunler.Select((x, index) => new { x, index }).Where(item => item.x.Marka == "Samsung").Select(item => item.index).ToList();
 foreach (var item in kategoriurunler)
 {
     Console.WriteLine($"Kategori: {item.KategoriAdi}, Ürün: {item.Marka} {item.Model}, Fiyat: {item.SatisFiyati}");
+} */
+
+int[] sayilar1 = { 6, 4, 2, 4, 8, 2, 3 };
+bool SadeceCift = sayilar1.Any(n => n % 2 == 0);
+Console.WriteLine("Liste sadece çift sayılardan oluşur: {0}", SadeceCift);
+int[] squares = Enumerable.Range(0, 100).Select(x => x * x).ToArray();
+foreach (var item in squares)
+{
+    Console.WriteLine(item);
 }
